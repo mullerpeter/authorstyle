@@ -1,4 +1,6 @@
 # authorstyle
+[![PyPI version](https://badge.fury.io/py/authorstyle.svg)](https://badge.fury.io/py/authorstyle)
+
 Python package to deal with PAN corpora and extract stylometric features from text documents.
 
 ### Installation
@@ -7,6 +9,10 @@ Clone the repo, install the _authorstyle_ framework and required libraries
 git clone git@github.com:mullerpeter/authorstyle.git
 cd authorstyle
 pip install .
+```
+Or you can directly install the package with
+```
+pip install authorstyle
 ```
 
 ### Example
