@@ -1,0 +1,7 @@
+nltk
+numpy
+textstat
+sklearn
+cophi
+tqdm
+
